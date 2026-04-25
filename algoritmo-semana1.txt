@@ -1,0 +1,10 @@
+pregunta 5 
+respuesta 
+1.buscar la informacion
+2.revisar la fuente
+3.confirmar la noticia
+4.reputacion
+5.dominio
+6.contrastar
+7.objetivo
+
