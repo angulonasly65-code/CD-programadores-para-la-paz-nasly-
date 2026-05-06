@@ -1,0 +1,9 @@
+respuesta
+pwd
+ls
+mkdir semana2
+cd semana2
+preguntas-semana2.txt
+comandos-terminal.txt
+reflexion-semana2.txt
+
