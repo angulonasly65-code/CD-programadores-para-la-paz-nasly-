@@ -1,0 +1,14 @@
+conceptos: 
+
+repositorio:contiene archivos del proyecto,carpetas,
+codigos,versiones anteriores y historial de modificacion
+
+commit:Funciona como una foto o punto de guardado del
+trabajo en un momento especifico como: cambios realizados
+fecha y hora,autor del cambio y un mensaje descriptivo.
+
+push:Se utiliza para enviar los cambios del repositoria
+local al repositorio remoto, compartir cambios con otras
+personas,guardar una copia del proyecto en internet,mante
+ner sincronizado el trabajo.
+
