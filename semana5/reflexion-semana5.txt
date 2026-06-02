@@ -1,0 +1,11 @@
+Las APIS ayudan a que las comunidades compartan 
+informacion de manera organizada porque permiten
+que diferentes aplicaciones envien y reciban datos
+automaticamente.por ejemplo, una persona puede reportar
+un problema desde una aplicacion,la API recibe la 
+informacion,la guarda en una base de datos y la comparte
+con las autoridades o con otros usuarios.
+Tambien pueden utilizarse para enviar alertas,noticias
+y actualizaciones en tiempo real, manteniendo la infor
+macion centralizada y accesible para todos.
+

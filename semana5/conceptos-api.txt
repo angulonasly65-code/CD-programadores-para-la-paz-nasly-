@@ -1,0 +1,16 @@
+¿Que hace esta ruta?
+Esta es una ruta tipo POST,diseñada para
+recibir informacion que se envia al servidor.
+
+En una aplicacion comunitaria serviria para:
+
+1:recibir reportes o avisos 
+2:Enviar solicitudes o inscripciones
+3:Dejar sugerencias o mensajes
+4:Denuncias o alertas 
+
+Esta herramienta permite la participacion activa
+convierte la aplicacion en un espacio de dos vias,
+donde la gente no solo lee, sino que tambien informa,
+colabora y construye junto a la comunidad.
+

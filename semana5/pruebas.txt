@@ -1,0 +1,9 @@
+al entrar a http://localhost:3000 me mostro el mensaje 
+"servidor activo"
+
+al entrar a http://localhost:3000/saludo aparecio
+el texto :"Hola comunidad"
+
+y al ingresar a http://localhost:3000/mensaje/juan
+me muestra el mensaje"Hola juan"
+
