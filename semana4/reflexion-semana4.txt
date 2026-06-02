@@ -1,0 +1,11 @@
+Es muy importante que las comunidades creen sus propias 
+herramientas con tecnologias abiertas como nodel.js
+porque asi tienen control total sobrw sus proyectos y
+datos, esto les ayuda a no depender de empresas 
+externas , ni a tener que pagar licencias costosas.
+estas herramientas al ser abiertas, cualquiera
+puede aprender, adaptar y mejorar el codigo segun sus
+necesidades locales, lo que fomenta la autonomia
+digital , y ayuda a que se puedan realizar mejores 
+proyectos con mas facilidad.
+
