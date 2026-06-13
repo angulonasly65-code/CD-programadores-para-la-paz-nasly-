@@ -1,0 +1,12 @@
+Es fundamental que estas plataformas sean estables
+y seguras, porque de ellas depende que la comunidad 
+pueda participar sin interrupciones. Si el servidor 
+falla, se corta la comunicacion y se pierde la confianza
+de los usuarios.La seguridad evita accesos indebidos,
+robos de informacion o alteracion de los reportes 
+compartidos.Al funcionar de forma continua y protegida,
+se garantiza que los datos esten disponibles y sean 
+fiables. Asi se fomenta la participacion responsable,
+se protege la privacidad de cada persona y se asegura 
+que la herramienta cumpla su proposito de servir a todos
+de forma confiable.
