@@ -1,0 +1,8 @@
+(
+  {
+    "id": 1,
+    "tipo": "infraestructura"
+     "descripcion": "Daño en alumbrado publico"
+  }
+)
+
