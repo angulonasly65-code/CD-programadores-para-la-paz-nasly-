@@ -1,0 +1,13 @@
+Es importante que las plataformas tecnologicas reciban
+reportes de forma estructurada porque facilita mucho
+la organizacion de la informacion.Cuando los datos
+siguen un orden claro, se evitan confusiones o 
+interpretaciones erroneas por parte de quien los
+recibe. Ademas, permite procesar los mensajes con
+mayor rapidez y atender cada caso en menos tiempo.
+
+Tambien nos ayuda a identificar patrones o problemas
+comunes que afectan a varios usuarios al mismo tiempo.
+Esto hace qque las soluciones sean mas precisas y se 
+tomen deciciones mas acertadas para mejorar el servicio.
+
