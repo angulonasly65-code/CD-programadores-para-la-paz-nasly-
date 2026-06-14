@@ -1,0 +1,4 @@
+•1:Proteger contraseñas seguras y unicas
+•2:No compartir credenciales ni datos personales
+•3:Mantener el sistema y aplicaciones actualizados
+

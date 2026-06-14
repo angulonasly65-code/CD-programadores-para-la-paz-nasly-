@@ -1,0 +1,22 @@
+La informacion que muestra cada comando es:
+- uname: Muestra nombre del sistema operativo
+, version y arquitectura.
+-lsblk / df -h:Muestra discos, particiones y espacio
+de almacenamiento libre/usado.
+-free -h: Muestra el estado de la memoria RAM y memoria
+de intercambio.
+-top / htop: Muestra procesos activos, uso de procesador
+y memoria en tiempo real.
+- ip a / ifconfig: Muestra direcciones ip y configuracion
+de red.
+
+•Es util conocer la informacion del sistema porque:
+- Permite verificar si el equipo cumple con los 
+requisitos para instalar servicios.
+-Detectar fallas:poco espacio, memoria agotada
+o fallos de red.
+-Monitorear rendimiento y evitar que el servidor se 
+se relantice o se caiga.
+-Resolver problemas de conexion o configuracion
+de forma mas rapida.
+
