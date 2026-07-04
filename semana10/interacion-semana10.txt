@@ -1,0 +1,25 @@
+•¿Que 2 tareas del backlog harias primero?
+
+1.como ciudadano quiero consultar el estado de mi 
+solicitud para saber que avances hay 
+
+2.como ciudadano quiero adjuntar evidencias a mi 
+reporte para respaldar la evidencia.
+
+¿porque son las mas importantes?
+
+•son las necesidades basicas que tiene cualquier
+eprsona al usar la plataforma:sin poder ver el estado
+de su tramite ni agregar pruebas,no se puede dar segui
+miento ni validar los reportes,asi que son fundamentales
+para que el sistema sea util desde el inicio.
+
+¿Que significa para ti que una tarea este terminada?
+
+Defino "terminada" cuando cumple al menos estos 3 crite
+rios
+
+•Funciona correctamente como se espera.
+•Se probo y no presenta errores graves.
+•Quedo registrada y guardada en el repositorio.
+

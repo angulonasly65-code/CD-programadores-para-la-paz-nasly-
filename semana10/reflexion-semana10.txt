@@ -1,0 +1,16 @@
+las metodologias agiles nos ayudan a organizar el 
+trabajo en pasos pequeños y claros,priorizando lo que 
+mas necesita la comunidad y corrigiendo errores rapido.
+El backlog y las interaciones evitan que nos perdamos
+en detalles innecesarios y nos enfocamos en dar respuesta
+utiles.
+
+La automatizacion con herramientas como n8n nos ahorra
+tiempo en avisos y seguimientos repetitivos, asi podemos
+dedicar mas atencion a lo que realmente importa:las per
+sonas.Telegram sirve como canal rapido para mantener
+a todos informados,sin exponer datos sensibles.
+Juntos hacen que el proceso sea mas transparente,
+ordenado y cercano,para que la participacion 
+ciudadana sea sencilla y efectiva.
+

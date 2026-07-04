@@ -1,0 +1,12 @@
+1.Como ciudadano quiero consultar el estado de mi 
+solicitud para saber que avances hay.
+
+2.Como ciudadano quiero adjuntar evidencias a mi reporte
+para respaldar la informacion.
+
+3.como coordinador quiero asignar responsables a los 
+casos para dar seguimiento ordenado.
+
+4.como veedor quiero ver los reportes resueltos para 
+conocer el trabajo realizado.
+

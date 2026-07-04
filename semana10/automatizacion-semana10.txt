@@ -1,0 +1,12 @@
+•Evento que activa el flujo:Se registra una nueva 
+solicitud o reporte en la plataforma.
+
+•Mensaje que se envia a Telegram:"Nueva solicitud 
+recibida.Codigo:(numero).Tipo:(tema general).
+Revisar en el sistema.
+
+•Informacion que NO se debe enviar por seguridad:
+Nombres completos,numero de documento,direcciones,
+telefonos,datos de ubicacion exacta,claves de acceso
+o cualquier informacion privada de las personas.
+
