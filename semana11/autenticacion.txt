@@ -1,0 +1,20 @@
+pregunta 8-- Explicar autenticacion
+
+●Que es el login en una aplicacion: 
+
+-El login es el sistema que permite identificar a una 
+persona antes de darle acceso a la aplicacion.
+
+●Porque algunas rutas deben estar protegidas?
+
+-Algunas rutas deben estar protegidas porque guardan 
+datos privados,tramites internos o acciones que no todos 
+pueden hacer.
+
+●Que tipo de informacion no deberia exponerse publica
+mente?
+
+-Nunca se debe exponer publicamente contraseñas,documen
+tos de identidad,telefonos,direcciones,claves de acceso
+ni informacion sensible de la comunidad.
+

@@ -1,0 +1,18 @@
+●Pregunta 9: Explicar la interfaz basica 
+
+•La interfaz tendria una seccion sencilla para crear
+una nueva causa comunitaria,con espacios para escribir 
+su titulo,descripción y fecha.
+
+•Tambien contará con una lista clara de todas las causas
+disponibles,para que cualquier persona puedad verlas y 
+leerlas con facilidad.
+
+-Cada causa tendra su propio boton para darle apoyo,
+y un contador que muestre cuantas personas ya han 
+respaldado esa iniciativa.
+
+-Ademas,la interfaz se mantendra simple y ordenada,
+sin mostrar datos privados ni informacion personal
+de los usuarios.
+

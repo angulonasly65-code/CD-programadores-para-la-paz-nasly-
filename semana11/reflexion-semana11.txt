@@ -1,0 +1,16 @@
+●Pregunta 10-Registrar respuesta y reflexion
+
+•Una plataforma de participacion ciudadana necesita una
+base de datos para guardar de forma segura y ordenada
+reposrtes,causas y aportes de la comunidad, sin perder
+informacion. La autenticacion es necesaria para saber
+quien hace cada accion, evitar intervenciones no 
+autorizadas y dar confianza a las personas que parti
+cipan.
+Ademas, proteger los datos sensibles es fundamental
+para respetar laa privacidad, cumplir con normas
+y evitar que se usen datos personales en perjuicio
+de alguien.Juntos estos elementos hacen que la 
+plataforma sea transparente, segura y util para 
+todos.
+

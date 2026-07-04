@@ -1,0 +1,25 @@
+pregunta 7: Diseñar modelo de datos simple
+
+•Entidad:Causa
+campos principales:
+
+•id
+•titulo
+•descripcion
+•fecha
+
+●Proposito:Guardar las causas comunitarias que seran 
+visibles en la plataforma.
+
+●Entidad:Apoyo
+campos principales
+
+•id
+•causa_id
+•usuario
+•fecha
+
+●propósito: 
+Registrar los apoyos que recibe cada causa para hacer
+seguimiento a la participacion.
+
