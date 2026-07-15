@@ -1,0 +1,28 @@
+pregunta 7 
+
+Flujo completo del sistema "peticion en 3 clics"
+
+1●Una persona accede a la plataforma y redacta la causa o
+peticion que quiere presentar a las autoridades.
+
+2●El sistema valida que la informacion este completa y 
+registra la nueva causa en la base de datos de forma 
+segura.
+
+3●La causa se publica de forma visible para toda la 
+comunidad, para que otros ciudadanos puedan revisarla.
+
+4●Quienes esten de acuerdo dan su apoyo con un solo
+clic, quedando registrados de manera organizada.
+
+5●El sistema verifica y suma automaticamente cada apoyo
+recibido para llevar un control exacto.
+
+6●Alcanzar el numero de apoyos necesarios o cuando el 
+usuario lo solicite,el sistema genera un documento
+PDF formal con la peticion y lista de respaldos.
+
+7●El documento se puede descargar y presentar ante las
+entidades correspondientes para exigir la respuesta
+de la solicitud.
+

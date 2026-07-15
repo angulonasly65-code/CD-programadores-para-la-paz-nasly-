@@ -1,0 +1,33 @@
+pregunta 8 
+●Diseñar modelo de datos simple 
+
+Entidad 1:Causa 
+
+Sirve para guardar toda la informacion de cada peticion
+o iniciativa que se crea en la plataforma:
+
+●id:Identificador único que distingue cada causa de los
+demas.
+
+●titulo:Nombre o titulo breve que resume la iniciativa.
+
+●descripcion:Explicacion detallada de lo que se solicita
+y porque es necesario.
+
+●fecha:Dia y hora en que se registro la causa.
+
+Entidad 2: Apoyo
+
+Sirve para registrar el respaldo que dan las personas a
+cada causa: 
+
+●id: Identificador único de cada apoyo registrado.
+
+●causa_id:Enlace que indica a que causa especifica
+pertenece este apoyo (se relaciona con el id de la
+entidad causa).
+
+●nombre:Nombre de la persona que brinda su apoyo.
+
+●fecha:Dia y hora en que se dio el apoyo.
+

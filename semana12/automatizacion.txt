@@ -1,0 +1,19 @@
+pregunta 9 
+
+Describir automatizacion
+
+●Herramienta usada n8n + Telegram 
+
+●Evento que activa la automatización:Cuando una causa 
+alcanza el numero minimo de apoyos necesarios para ser
+presentada formalmente.
+
+●Mensaje que se envia:la causa (titulo de la peticion)
+ya cuenta con el respaldo suficiente ya puedes descargar
+el documento oficial y presentarlo ante las autoridades.
+
+●informacion que No debe enviarse por seguridad:Numeros
+de identificacion personal,telefonos,direcciones de 
+domicilio,correos electronicos privados,datos sencibles
+de los ciudadanos ni informacion confidencial del sistema
+
